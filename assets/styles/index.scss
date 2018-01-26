@@ -7,28 +7,39 @@ body {
 }
 
 .btn {
-  background-color: transparent;
+  background-color: #E9656C;
   padding: 5px;
 }
 
 .main {
-  background-color: pink;
+  background-color: orange;
 }
 
 .nav-bar {
-  background-color: yellow;
+  background-color: blue;
+  padding: 5px;
 }
 
 .nozama {
-  font-size: 18px;
+  font-size: 100px;
   margin: 0;
   padding: 2px;
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+}
+
+.products-wrap {
+  text-align: center;
 }
 
 .search {
   background-color: white;
   margin: 0 auto;
   padding: 5px;
+}
+
+.shopping-cart {
+  text-align: center;
 }
 
 .sign-in-up-wrap {
